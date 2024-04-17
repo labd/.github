@@ -9,6 +9,7 @@ Our open-source projects focus mainly on the following:
 - Terraform providers for MACH platforms
 - Platform SDKs and libraries
 - Cloudnative tools and libraries for Python / Django
+- ➡️ [For our MACH composer related open source projects, please view its separate Github organisation](https://github.com/mach-composer)
 
 
 [![Lab Digital is hiring cloud native software engineers that love open source](https://raw.githubusercontent.com/labd/.github/main/profile/github-hiring-banner.jpg)](https://careers.labdigital.nl?lang=en)
